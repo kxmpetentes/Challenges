@@ -1,0 +1,16 @@
+{
+  "modules": [
+    {
+      "name": "mongo-connector",
+      "languageLevel": 8
+    },
+    {
+      "name": "plugin",
+      "languageLevel": 8
+    },
+    {
+      "name": "root",
+      "languageLevel": 5
+    }
+  ]
+}

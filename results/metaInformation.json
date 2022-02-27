@@ -1,0 +1,16 @@
+{
+  "total": 123,
+  "tools inspection": {
+    "Code Inspection": 123
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/kxmpetentes/Challenges",
+        "revisionId": "9b61ae09e1e54c483fb7c574771e05d0242feeb3",
+        "branch": "development"
+      }
+    },
+    "deviceId": "200820300000000-25d2-ff69-d6eb-ec2523a3925d"
+  }
+}
