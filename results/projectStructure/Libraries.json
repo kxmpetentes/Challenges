@@ -73,15 +73,15 @@
       ]
     },
     {
-      "name": "Maven: com.github.anweisen.Utility:bukkit-utils:1.3.6",
+      "name": "Maven: com.github.anweisen.Utility:bukkit-utils:1.3.11",
       "roots": [
-        "jar://$MAVEN_REPOSITORY$/com/github/anweisen/Utility/bukkit-utils/1.3.6/bukkit-utils-1.3.6.jar!/"
+        "jar://$MAVEN_REPOSITORY$/com/github/anweisen/Utility/bukkit-utils/1.3.11/bukkit-utils-1.3.11.jar!/"
       ]
     },
     {
-      "name": "Maven: com.github.anweisen.Utility:common-utils:1.3.6",
+      "name": "Maven: com.github.anweisen.Utility:common-utils:1.3.11",
       "roots": [
-        "jar://$MAVEN_REPOSITORY$/com/github/anweisen/Utility/common-utils/1.3.6/common-utils-1.3.6.jar!/"
+        "jar://$MAVEN_REPOSITORY$/com/github/anweisen/Utility/common-utils/1.3.11/common-utils-1.3.11.jar!/"
       ]
     },
     {
@@ -181,15 +181,15 @@
       ]
     },
     {
-      "name": "Maven: com.github.anweisen.Utility:database-api:1.3.6",
+      "name": "Maven: com.github.anweisen.Utility:database-api:1.3.11",
       "roots": [
-        "jar://$MAVEN_REPOSITORY$/com/github/anweisen/Utility/database-api/1.3.6/database-api-1.3.6.jar!/"
+        "jar://$MAVEN_REPOSITORY$/com/github/anweisen/Utility/database-api/1.3.11/database-api-1.3.11.jar!/"
       ]
     },
     {
-      "name": "Maven: com.github.anweisen.Utility:database-sql:1.3.6",
+      "name": "Maven: com.github.anweisen.Utility:database-sql:1.3.11",
       "roots": [
-        "jar://$MAVEN_REPOSITORY$/com/github/anweisen/Utility/database-sql/1.3.6/database-sql-1.3.6.jar!/"
+        "jar://$MAVEN_REPOSITORY$/com/github/anweisen/Utility/database-sql/1.3.11/database-sql-1.3.11.jar!/"
       ]
     },
     {
@@ -277,9 +277,9 @@
       ]
     },
     {
-      "name": "Maven: com.github.anweisen.Utility:database-mongodb:1.3.6",
+      "name": "Maven: com.github.anweisen.Utility:database-mongodb:1.3.11",
       "roots": [
-        "jar://$MAVEN_REPOSITORY$/com/github/anweisen/Utility/database-mongodb/1.3.6/database-mongodb-1.3.6.jar!/"
+        "jar://$MAVEN_REPOSITORY$/com/github/anweisen/Utility/database-mongodb/1.3.11/database-mongodb-1.3.11.jar!/"
       ]
     }
   ]
